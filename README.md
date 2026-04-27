@@ -12,9 +12,8 @@
 2. [Stack Tecnológico y Hardware](#stack-tecnológico-y-hardware)
 3. [Requisitos Previos](#requisitos-previos)
 4. [Instalación y Configuración](#instalación-y-configuración)
-5. [Guía de Contribución (¡Importante!)](#guía-de-contribución)
-6. [Estructura del Repositorio](#estructura-del-repositorio)
-7. [Autores y Reconocimientos](#autores-y-reconocimientos)
+5. [Estructura del Repositorio](#estructura-del-repositorio)
+6. [Autores y Reconocimientos](#autores-y-reconocimientos)
 
 ---
 
